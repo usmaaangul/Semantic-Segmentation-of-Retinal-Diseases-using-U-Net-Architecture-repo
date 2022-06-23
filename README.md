@@ -5,20 +5,23 @@ Semantic-Segmentation-of-Retinal-Diseases-using-U-Net-Architecture. Built with P
 
 ## To-Do:
 ### June 2022
- - Study some research papers
+ - [ ] Study some research papers
+   - [Explainable Diabetic Retinopathy Detection and Retinal Image Generation](https://arxiv.org/pdf/2107.00296.pdf)
+   - 
+ 
  
 ### July 2022:
- - Load, Prepare, and Process the data
- - Study and Understand U-Net Architecture
- - Build Model Architecture
- - Train Model with data 
- - Test model performance
- - Hyperparameters tuning and compare the performance with different parameters and Hyperparametrs
- - Prepare slides for project work presentation of this month session
+ - [ ] Load, Prepare, and Process the data
+ - [ ] Study and Understand U-Net Architecture
+ - [ ] Build Model Architecture
+ - [ ] Train Model with data 
+ - [ ] Test model performance
+ - [ ] Hyperparameters tuning and compare the performance with different parameters and Hyperparametrs
+ - [ ] Prepare slides for project work presentation of this month session
  
 ### August 2022:
- - Train the final Model with best parameters and hyperparameters
- - Prepare the ducometation
- - Prepare the final presentation
- - present the project
+ - [ ] Train the final Model with best parameters and hyperparameters
+ - [ ] Prepare the ducometation
+ - [ ] Prepare the final presentation
+ - [ ] present the project
  
