@@ -24,7 +24,9 @@ Semantic-Segmentation-of-Retinal-Diseases-using-U-Net-Architecture. Built with P
  
 ### August 2022:
  - [ ] Train the final Model with best parameters and hyperparameters
- - [ ] Prepare the ducometation
+ - [ ] Prepare the documentation
  - [ ] Prepare the final presentation
+ 
+ ### September 2022:
  - [ ] present the project
  
