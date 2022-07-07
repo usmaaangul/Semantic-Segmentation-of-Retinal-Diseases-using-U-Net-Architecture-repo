@@ -9,8 +9,8 @@ Semantic-Segmentation-of-Retinal-Diseases-using-U-Net-Architecture. Built with P
    - [x] [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
    - [x] [SA-UNet: Spatial Attention U-Net for Retinal Vessel Segmentation](https://paperswithcode.com/paper/sa-unet-spatial-attention-u-net-for-retinal)
    - Understood the Architecture of SA-UNet from code of the `SA-UNet: Spatial Attention U-Net for Retinal Vessel Segmentation` paper
+   - [x] [Residual Spatial Attention Network for Retinal Vessel Segmentation](https://www.researchgate.net/publication/344325514_Residual_Spatial_Attention_Network_for_Retinal_Vessel_Segmentation)
    - [x] [Multiscale U-Net with Spatial Positional Attention for Retinal Vessel Segmentation](https://www.researchgate.net/publication/357721268_Multiscale_U-Net_with_Spatial_Positional_Attention_for_Retinal_Vessel_Segmentationn)
-   - [ ] [Residual Spatial Attention Network for Retinal Vessel Segmentation](https://www.researchgate.net/publication/344325514_Residual_Spatial_Attention_Network_for_Retinal_Vessel_Segmentation)
    - [ ] [Application of deep learning for retinal image analysis: A review](https://www.sciencedirect.com/science/article/pii/S1574013719301327?casa_token=cb02NjE3lmkAAAAA:45LIY-M8u0ERQdN0_OZxY5xtia9drd07IM9BMZF-O6rxwLQx5YPoK7srwGW3B5u42SL50N1he48)
 
 
