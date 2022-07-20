@@ -1,5 +1,7 @@
 # Semantic-Segmentation-of-Retinal-Diseases-using-U-Net-Architecture-repo
-Dataset: https://drive.grand-challenge.org/
+Dataset1: https://drive.grand-challenge.org/
+Chase Dataset: https://github.com/clguo/RSAN/tree/master/Chase
+Drive Dataset: https://github.com/clguo/RSAN/tree/master/Drive
 
 Semantic-Segmentation-of-Retinal-Diseases-using-U-Net-Architecture. Built with Python, Tensorflow, keras.
 
